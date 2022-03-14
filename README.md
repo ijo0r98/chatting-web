@@ -1,6 +1,9 @@
 # chatting-web
 드라마 <스물다섯, 스물하나>에 빠져서 만들기 시작한 채팅 서비스
 
+🔗 블로그
+- https://juran-devblog.tistory.com/category/java/spring | [SPRING BOOT] 2521 과몰입러의 스프링부트 웹소켓 채팅 서비스 만들기
+
 🛠 환경
 - 스프링부트 Gradle
 - Intellij
